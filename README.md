@@ -37,14 +37,14 @@ causalab/
 后端：
 
 ```powershell
-cd F:\2026小学期项目\backend
+cd F:\...\backend
 ..\.venv\Scripts\python.exe -m uvicorn app.main:app --reload --port 8000
 ```
 
 前端：
 
 ```powershell
-cd F:\2026小学期项目\frontend
+cd F:\...\frontend
 npm run dev
 ```
 
@@ -58,11 +58,4 @@ npm run dev
 
 示例报告位于 [examples/CausaLab_示例分析报告.docx](examples/CausaLab_示例分析报告.docx)。
 
-## 课程与软著材料
 
-- [产品与软著范围说明](docs/PROJECT_SPEC.md)
-- [算法说明](docs/ALGORITHM_SPEC.md)
-- [用户手册](docs/USER_MANUAL.md)
-- [测试用例与验证记录](docs/TEST_CASES.md)
-- [软著材料准备清单](docs/SOFTWARE_COPYRIGHT_MATERIALS.md)
-- [统计分析向导改造方案](docs/STATISTICAL_WORKFLOW_REDIRECT.md)
