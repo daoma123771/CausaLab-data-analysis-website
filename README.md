@@ -56,6 +56,5 @@ npm run dev
 
 也可以使用 [examples/ab_test_sample.csv](examples/ab_test_sample.csv) 演示数据诊断模块。该文件有意包含缺失值、重复记录和异常值，便于展示质量评分、字段识别、异常检测和诊断建议。
 
-示例报告位于 [examples/CausaLab_示例分析报告.docx](examples/CausaLab_示例分析报告.docx)。
 
 
